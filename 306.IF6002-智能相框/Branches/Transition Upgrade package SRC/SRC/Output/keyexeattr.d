@@ -1,0 +1,13 @@
+..\output\keyexeattr.o: ..\User\TouchPad_PhotoFrame\KeyExeAttr.c
+..\output\keyexeattr.o: ..\Lib_code\App\Unitcfg.h
+..\output\keyexeattr.o: ..\Lib_code\App\BF_type.h
+..\output\keyexeattr.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\keyexeattr.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\keyexeattr.o: ..\User\TouchPad_PhotoFrame\KeyExeAttr.h
+..\output\keyexeattr.o: ..\Lib_code\SysPower\BatteryExeAttr.h
+..\output\keyexeattr.o: ..\User\Key\Key.h
+..\output\keyexeattr.o: ..\Lib_code\SysLib\inc\Thread.h
+..\output\keyexeattr.o: ..\Lib_code\SysPower\LowPower.h
+..\output\keyexeattr.o: ..\User\Driver\USART1\USART1.h
+..\output\keyexeattr.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\keyexeattr.o: ..\User\Driver\ShakeMotor\ShakeMotor.h

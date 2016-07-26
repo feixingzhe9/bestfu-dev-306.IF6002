@@ -1,0 +1,13 @@
+..\output\usart1.o: ..\User\Driver\USART1\USART1.c
+..\output\usart1.o: ..\Core\STM32L1xx.h
+..\output\usart1.o: ..\Core\core_cm3.h
+..\output\usart1.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\usart1.o: ..\Core\core_cmInstr.h
+..\output\usart1.o: ..\Core\core_cmFunc.h
+..\output\usart1.o: ..\Core\system_stm32l1xx.h
+..\output\usart1.o: ..\Lib_code\SysHard\inc\sys.h
+..\output\usart1.o: ..\Lib_code\App\BF_type.h
+..\output\usart1.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\usart1.o: ..\User\Driver\USART1\USART1.h
+..\output\usart1.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\usart1.o: ..\Lib_code\SysHard\inc\GPIO.h

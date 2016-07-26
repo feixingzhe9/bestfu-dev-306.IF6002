@@ -1,0 +1,13 @@
+..\output\wtc6106.o: ..\User\Driver\WTC6106\WTC6106.c
+..\output\wtc6106.o: ..\User\Driver\WTC6106\WTC6106.h
+..\output\wtc6106.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\wtc6106.o: ..\Lib_code\App\BF_type.h
+..\output\wtc6106.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\wtc6106.o: ..\Core\stm32l1xx.h
+..\output\wtc6106.o: ..\Core\core_cm3.h
+..\output\wtc6106.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\wtc6106.o: ..\Core\core_cmInstr.h
+..\output\wtc6106.o: ..\Core\core_cmFunc.h
+..\output\wtc6106.o: ..\Core\system_stm32l1xx.h
+..\output\wtc6106.o: ..\Lib_code\SysLib\inc\delay.h
+..\output\wtc6106.o: ..\Lib_code\SysHard\inc\sys.h
